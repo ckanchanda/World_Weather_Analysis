@@ -12,6 +12,6 @@ as a markered map displaying the hotel name, city, Country, weather
 discription, and maximum temperatures of their chosen cities. 
 
 
-![](WeatherPy_vacation_map.png.jpg)
-![](WeatherPy_travel_map.png.jpg)
-![](WeatherPy_travel_map_markers.png)
+![](Vacation_Search/WeatherPy_vacation_map.png.jpg)
+![](Vacation_Itinerary/WeatherPy_travel_map.png.jpg)
+![](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
